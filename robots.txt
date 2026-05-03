@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wc-armijaviya.github.io/resources-hixf7a/sitemap.xml
